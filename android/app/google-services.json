@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161695767908",
+    "project_id": "kalingatvnews",
+    "storage_bucket": "kalingatvnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161695767908:android:76f1d8e8cc1fbb2edb2e71",
+        "android_client_info": {
+          "package_name": "com.kalingatv4.odisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161695767908-43ttqd6jp105u5ks9e9jtjt2h9qq1fnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsUW5b_r2_p-nGle_qTue78dKDGZoeOVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161695767908-43ttqd6jp105u5ks9e9jtjt2h9qq1fnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
